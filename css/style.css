@@ -14,11 +14,13 @@ body, html{
     background-position:center;
     background-size:100%;
     background-repeat:repeat;
+    background-color:rgba(192,192,192,0.3);
   
     /*
       fixed = parallax
       scroll = normal
     */
+    
     background-attachment:fixed;
   }
   
